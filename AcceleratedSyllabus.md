@@ -44,7 +44,8 @@ There are various levels of understanding that may form student expectations. If
 This syllabus assumes a basic familiarity with Active Inference concepts. It is not compulsory to do the following before this syllabus, but it would help a lot if you are lacking this familiarity. Note that the Textbook Group runs in cycles and has set start dates.
 
 * Participate in Active Inference Textbook Group cohort, at least Chapters 1-5 and 6 ([sign-up link](https://www.activeinference.org/education/textbook-group))
-* Watch the livestream videos for Smith, Friston, and Whyte (2022) “A step-by-step tutorial on active inference and its application to empirical data.” Journal of Mathematical Psychology ([link to paper](https://linkinghub.elsevier.com/retrieve/pii/S0022249621000973)) for basic insight into modeling active inference. There is a series of four streams in total [ModelStream 1.1](https://www.youtube.com/watch?v=H5AolqFl2Nw)
+* Watch the livestream videos for Smith, Friston, and Whyte (2022) “A step-by-step tutorial on active inference and its application to empirical data.” Journal of Mathematical Psychology ([link to paper](https://linkinghub.elsevier.com/retrieve/pii/S0022249621000973)) for basic insight into modeling active inference. There is a series of four streams in total:
+* [ModelStream 1.1](https://www.youtube.com/watch?v=H5AolqFl2Nw)
 
 Knowledge of  category theory is not expected, however an understanding of mathematics is helpful.  
 
