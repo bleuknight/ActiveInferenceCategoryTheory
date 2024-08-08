@@ -1,6 +1,6 @@
-# Introduction to Category Theory applied to Active Inference, Adventure Mode
+# Introduction to Category Theory applied to Active Inference, Accelerated Mode
 
-*May 2023*
+*August 2024*
 
 # Course Information
 
@@ -12,9 +12,7 @@ Any curious, thrill-seeking Active Inference Institute participant who wishes to
 
 ## Objective
 
-To enable learners to read and study Active Inference papers that involve category theoretical tools, hence forming a pathway to bring researchers closer to the frontier in these areas relatively more quickly (or less completely bewilderingly) than without this syllabus. This syllabus can not be expected to result in full understanding, but can reduce uncertainty.
-
-The syllabus traces somewhat of a parallel path, or extension, to the main threads of Active Inference as it has been studied from circa 2003-2023. Most Active Inference papers approach these topics from a quantitative or empirical angle (e.g. discussion of data-fitting applied to given statistical distributions and particular partitions).
+This version of the syllabus provides an accellerated ramp that will enable learners to read, study, and discuss Active Inference in the realm of category theory. This syllabus can not be expected to result in full understanding, but can reduce uncertainty.
 
 Recently, as the field of Applied Category Theory has grown in momentum and relevance, people have begun applying it to areas of organizational studies, data science, cybernetic systems, and Active Inference (e.g. [MathStream #004.1](https://www.youtube.com/watch?v=aN1GXOZp6xY) with David Spivak). 
 
@@ -22,8 +20,8 @@ A course based on this syllabus can be seen as a supplement, appetizer, dessert,
 
 **Notes**
 
-1. This is an “adventure mode” course that may seem bewildering at times. However, it is possible for the reward to be great given such an approach. If you are interested in alternative adventures, links to university taught and YouTube courses are included towards the end of the document.
-2. This is a prototype syllabus and has not yet been taught or studied explicitly as such — yet! Try it out and provide feedback or by sharing your end-of-course reflection on [Twitter](http://twitter.com/InferenceActive) or [Discord](https://discord.gg/BEpgX3z7) (on Discord, join the Category Theory channel). Please feel free to make suggestions and improvements directly here on the Github repository — this is a collaborative curriculum that is always in progress!
+1. This is an accelerated course that may seem bewildering at times. However, it is possible for the reward to be great given such an approach. If you are interested in alternative methods of approach, links to university taught and YouTube courses are included towards the end of the document, as well as the "adventure mode" syllabus from which this version was adapted.
+2. This is a prototype syllabus and has not yet been taught or studied explicitly as such — yet! Try it out and provide feedback or by sharing your end-of-course reflection on [Twitter](http://twitter.com/InferenceActive) or [Discord](https://discord.gg/BEpgX3z7) (on Discord, join the Category Theory channel). Please feel free to make suggestions and alternative versions using Github — this is a collaborative curriculum that is always in progress!
 
 ## Structure and Estimated Workload
 
